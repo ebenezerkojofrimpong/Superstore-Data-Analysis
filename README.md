@@ -7,10 +7,10 @@ This data analysis project aims to investigate the factors that influence whethe
 We will resolve this case following this methodology:
 
 `ASK, PREPARE, PROCESS, ANALYSE, SHARE AND ACT`
----
+
 
 ## **ASK**
----
+
 This phase involves defining the issue to be solved, identifying stakeholders and what their expectations from the project are.
 
 Two questions will guide the future marketing program:
