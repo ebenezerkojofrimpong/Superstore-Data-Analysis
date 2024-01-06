@@ -63,10 +63,19 @@ Excel was used for the data analysis phase of this project.
 ![image](https://github.com/ziraefrimpong1/Excel-Project-2/assets/154938134/60fbe522-1d02-4188-94ef-74ff74c231b5)
 
 
+![](Top_10_Products_and_Cities)
+
+![image](https://github.com/ziraefrimpong1/Excel-Project-2/assets/154938134/7108570b-c078-425c-98e0-6b9deba44df3)
+
+![](Sales_Contribution_by_Category_and_Segment)
+![image](https://github.com/ziraefrimpong1/Excel-Project-2/assets/154938134/6fccdfc9-4cfe-473e-bca6-e48ec3223b13)
+
+![](Preference_from_Top5_Sub-Category)
+![image](https://github.com/ziraefrimpong1/Excel-Project-2/assets/154938134/7cae844d-85d6-4bf3-82b4-2bae04c03b90)
 
 
-
-
+![](Dashboard_1)
+![image](https://github.com/ziraefrimpong1/Excel-Project-2/assets/154938134/fa3ce17e-cfdb-4ec8-8d62-cd0867031784)
 
 
 
