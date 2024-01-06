@@ -1,4 +1,4 @@
-# Title
+# The Path to Profitability: Comprehensive Sales Data Analysis
 
 ## Project Overview
 ---
@@ -48,3 +48,26 @@ Analyze and leverage key drivers of sales performance, including product contrib
   
 - **Executive Team**: The notoriously detail-oriented executive team will decide whether to approve the recommended marketing program.
 ---
+
+
+## **ANALYZE**
+---
+In this phase we analyze the data using statistical methods to find patterns, relationships, and trends.
+
+Excel was used for the data analysis phase of this project.
+
+**Outlined below are the key takeaways derived from the analysis of the data:**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
