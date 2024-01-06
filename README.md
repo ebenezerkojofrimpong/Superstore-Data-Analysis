@@ -81,5 +81,16 @@ Excel was used for the data analysis phase of this project.
 
 
 
+[](Sales_Performance_by_Quarter)
+![image](https://github.com/ziraefrimpong1/Excel-Project-2/assets/154938134/15eff02d-2364-4e1d-8b60-0818736a8f96)
+
+[](Sales_Trend_by_Month)
+![image](https://github.com/ziraefrimpong1/Excel-Project-2/assets/154938134/346c8342-063d-48cd-89aa-44c6f15abafe)
+
+[](Impact_of_Discount_on_Specific_Products)
+![image](https://github.com/ziraefrimpong1/Excel-Project-2/assets/154938134/20a627ea-271e-4aed-9a13-f77eeecf8423)
+
+
+
 
 
