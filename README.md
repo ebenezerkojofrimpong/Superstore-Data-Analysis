@@ -15,21 +15,33 @@ This phase involves defining the issue to be solved, identifying stakeholders an
 
 Two questions will guide the future marketing program:
 
-1. What Demographic Factors Influence Bike Purchases?
+1. What are the key drivers of sales performance?
    
-    - Explore the relationship between age, gender, and income levels of customers and their likelihood to purchase a bike.
+    - Which products or categories contribute the most to revenue?
   
-    - Analyze if certain demographics are more inclined to make bike purchases.
+    - Are the specific time periods or seasons with higher sales?
   
-2. How Does Customer Commute Distance Impact Bike Purchase Decisions?
+2. How can customer segmentation be leveraged to enhanve the overall shoppping experience and increase customer loyalty?
 
-   - Is there a correlation between the length of the customer commute and the likelihood of making a bike purchase?
+   - Can distinct customer segments be identified based on purchasing behavior?
      
-   - Do customers with shorter commutes show a higher tendency to purchase bikes compared to those with longer commutes?
+   - What are the preferences and buying patterns of different customer segments.
+
+3. How can we optimize our shipping strategy to align with customer preferences and enhance overall satisfaction?
+
+   - What ship mode is most prefered by customers, and how does it align with their expectations?
+  
+   - Are there opportunities to tailor shipping options based on customer preferences to enhance overall satisfaction?
+  
+4. How can can discount levels be optimized to maximize overall sales volume?
+
+   - How do different discount levels influence overall sales volume?
+  
+   - Can you identify specific products or categories where discounts have a more significant impact on sales?
 
 
 ### Business Task
-Identify and understand the key factors influencing bike purchases to optimize marketing strategies.
+Analyze and leverage key drivers of sales performance, including product contribution to sales, seasonal sales patterns, and customer segmentation.
 
 ### Key Stakeholders
 - **Marketting Analytics Team**: A team of data analysts who are responsible for collecting, analyzing, and reporting data that helps guide Cyclistic marketing strategy.
