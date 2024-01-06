@@ -59,6 +59,9 @@ Excel was used for the data analysis phase of this project.
 **Outlined below are the key takeaways derived from the analysis of the data:**
 
 
+![](Overall_Sales_Trend)
+![image](https://github.com/ziraefrimpong1/Excel-Project-2/assets/154938134/60fbe522-1d02-4188-94ef-74ff74c231b5)
+
 
 
 
