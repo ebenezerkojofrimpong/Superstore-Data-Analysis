@@ -64,28 +64,35 @@ This insight suggests that the company's sales efforts and strategies have been 
    ![image](https://github.com/ziraefrimpong1/Excel-Project-2/assets/154938134/60fbe522-1d02-4188-94ef-74ff74c231b5)
 ---
 
-2. New York City significantly outperforms other cities in total sales volume with the maximum sales of $256K. This suggests there are unique factors about New York City that drive strong sales.
+2. A compelling insight emerges from the data, revealing that New York City stands out significantly with the highest total sales volume of $256K, indicating unique factors contributing to its robust sales performance. Moreover, the Canon imageCLASS 2200 Advanced Copier demonstrates exceptional resonance with customers, generating over 2x more sales revenue than the next highest-selling product and constituting 25% of total sales among the top 10 products, showcasing distinctive qualities that captivate consumers.
+  
+   On the other end, the Eureka Disposable Bags for Sanitaire Vibra Groomer Upright Vac, with a sale of $2.00, represents the least sold product, providing a point of interest for further analysis and potential optimization.
+   
+   ![](Top_10_Products_and_Cities)
 
-   Canon imageCLASS 2200 Advanced Copier generates over 2x more in sales revenue than the next highest selling product, accounting for 25%% of total sales on its own among the top 10 products with the maximum sales of $61.6K. This indicates Canon imageCLASS 2200 Advanced Copier has qualities that resonate exceptionally well with customers.
+   ![image](https://github.com/ziraefrimpong1/Excel-Project-2/assets/154938134/620dccd4-3fd3-4157-8b68-579755ebf892)
 
-![](Top_10_Products_and_Cities)
+---
 
+3. A significant insight derived from the data is that the Technology category contributes 37% to total sales revenue, surpassing both Furniture and Office Supplies, which account for 32% and 31% each respectively. Additionally, despite the Corporate and Home Office segments contributing 31% and 19% to total sales revenue respectively, the Consumer Segment stands out, accounting for 50%.
 
+   This highlights the substantial influence of the Consumer Segment in driving a disproportionate share of the overall business, suggesting potential areas for targeted strategies and further exploration to capitalize on the strength of the Consumer Segment."
 
+    ![](Sales_Contribution_by_Category_and_Segment)
+   ![image](https://github.com/ziraefrimpong1/Excel-Project-2/assets/154938134/6fccdfc9-4cfe-473e-bca6-e48ec3223b13)
 
+---
 
+4. The Phones Sub-Category significantly outperforms all other Categories in total sales volume with the maximum sales of $330K. 
 
-
-
-
-
-
-![](Sales_Contribution_by_Category_and_Segment)
-![image](https://github.com/ziraefrimpong1/Excel-Project-2/assets/154938134/6fccdfc9-4cfe-473e-bca6-e48ec3223b13)
-
-![](Preference_from_Top5_Sub-Category)
+   A pivotal insight emerges from the data, indicating that while the Phones sub-category leads in overall sales, the Chairs sub-category demonstrates superior performance within specific segments. Notably, in the Consumer segment, Chairs lead with $173K compared to Phones' $170K, and in the Corporate segment, Chairs lead with $99K compared to Phones' $91K. This nuanced view underscores the importance of segment-specific strategies, revealing opportunities for targeted efforts to further enhance the success of the Chairs sub-category within distinct market segments.
+    
+   ![](Preference_from_Top5_Sub-Category)
 ![image](https://github.com/ziraefrimpong1/Excel-Project-2/assets/154938134/7cae844d-85d6-4bf3-82b4-2bae04c03b90)
 
+--
+
+### **Dashboard 1**
 
 ![](Dashboard_1)
 ![image](https://github.com/ziraefrimpong1/Excel-Project-2/assets/154938134/fa3ce17e-cfdb-4ec8-8d62-cd0867031784)
