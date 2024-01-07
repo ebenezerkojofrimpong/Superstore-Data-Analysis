@@ -1,4 +1,4 @@
-# The Path to Profitability: Comprehensive Sales Data Analysis
+# Unveiling Trends: A Comprehensive Four-Year Sales Data Analysis
 
 ## Project Overview
 ---
