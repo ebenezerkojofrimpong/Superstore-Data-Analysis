@@ -57,15 +57,18 @@ In this phase we analyze the data using statistical methods to find patterns, re
 Excel was used for the data analysis phase of this project.
 
 **Outlined below are the key takeaways derived from the analysis of the data:**
+1. The company's total sales have been consistently increasing over the years, indicating a positive growth trend shown by the chart below.
+This insight suggests that the company's sales efforts and strategies have been effective in driving revenue and capturing market share. It showcases the company's ability to generate increasing sales figures over time, which is a positive indication of its performance and market competitiveness.
 
+   ![](Overall_Sales_Trend)
+   ![image](https://github.com/ziraefrimpong1/Excel-Project-2/assets/154938134/60fbe522-1d02-4188-94ef-74ff74c231b5)
+---
 
-![](Overall_Sales_Trend)
-![image](https://github.com/ziraefrimpong1/Excel-Project-2/assets/154938134/60fbe522-1d02-4188-94ef-74ff74c231b5)
-
-
+2. New York City significantly outperforms other cities in total sales volume with the maximum sales of $256K. This suggests there are unique factors about New York City that drive strong sales.
 ![](Top_10_Products_and_Cities)
-
+![image](https://github.com/ziraefrimpong1/Excel-Project-2/assets/154938134/b29dace7-c999-4550-9c7b-c767364d8dbc)
 ![image](https://github.com/ziraefrimpong1/Excel-Project-2/assets/154938134/7108570b-c078-425c-98e0-6b9deba44df3)
+
 
 ![](Sales_Contribution_by_Category_and_Segment)
 ![image](https://github.com/ziraefrimpong1/Excel-Project-2/assets/154938134/6fccdfc9-4cfe-473e-bca6-e48ec3223b13)
