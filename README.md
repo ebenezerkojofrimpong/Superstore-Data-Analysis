@@ -65,9 +65,19 @@ This insight suggests that the company's sales efforts and strategies have been 
 ---
 
 2. New York City significantly outperforms other cities in total sales volume with the maximum sales of $256K. This suggests there are unique factors about New York City that drive strong sales.
+
+   Canon imageCLASS 2200 Advanced Copier generates over 2x more in sales revenue than the next highest selling product, accounting for 25%% of total sales on its own among the top 10 products with the maximum sales of $61.6K. This indicates Canon imageCLASS 2200 Advanced Copier has qualities that resonate exceptionally well with customers.
+
 ![](Top_10_Products_and_Cities)
-![image](https://github.com/ziraefrimpong1/Excel-Project-2/assets/154938134/b29dace7-c999-4550-9c7b-c767364d8dbc)
-![image](https://github.com/ziraefrimpong1/Excel-Project-2/assets/154938134/7108570b-c078-425c-98e0-6b9deba44df3)
+
+
+
+
+
+
+
+
+
 
 
 ![](Sales_Contribution_by_Category_and_Segment)
