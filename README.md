@@ -56,10 +56,12 @@ Analyze and leverage key drivers of sales performance, including product contrib
 ## PREPARE
 Involves collecting data and information and ensuring it satisfies necessary parameters.
 
+### Data Location
 The dataset was obtained from Kaggle. Click [here](https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls)
 to download it.
 
-The dataset contains 18979 rows and 77 columns.
+### Data Organization
+The dataset contains 9999 rows and 21 columns.
 
 #### `Features:`
 
@@ -105,22 +107,27 @@ The dataset contains 18979 rows and 77 columns.
 
 **Profit** => Profit/Loss incurred.
 
+---
+### Tool
+The tool used for this project is Microsoft Excel 2016.
 
+---
 
+## PROCESS
+This phase of the analysis process includes cleaning the data and making sure it is fit for purpose. As well as making any modifications necessary.
 
+A summary of the cleaning and manipulation done to the data is presented below:
 
+1.	Removed 5 duplicate values which reduced the number of rows from 9999 to 9994.
+2.	No blank row found in dataset.
+3.	Checked for consistency of ship_date and order_date (Nested the IF() and OR() functions to ensure ship_date is greater than or equal to order_date).
+4.	Changed sales and profit columns General datatype to currency datatype.
 
-
-
-
-
-
-
-
+---
 
 
 ## **ANALYZE**
----
+
 In this phase we analyze the data using statistical methods to find patterns, relationships, and trends.
 
 Excel was used for the data analysis phase of this project.
@@ -198,8 +205,12 @@ This indicates Q4 has unique drivers of sales volume, most likely holiday shoppi
 
 ---
 
+## ACT
+Upon completion of data processing, analysis, and insight dissemination, the conclusive phase involves formulating a well-aligned course of action for the Superstore enterprise, congruent with its business goals and mission. My recommendations are as follows:
 
+1. **Continued Investment in Successful Sales Strategies**
 
+   Leverage the strong sales growth by continuing effective sales strategies and efforts. Continue investing in and evolving these strategies to maintain positive momentum and drive       sustained revenue growth.
 
 
 
