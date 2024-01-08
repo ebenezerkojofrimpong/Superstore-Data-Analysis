@@ -1,7 +1,6 @@
 # Unveiling Trends: A Comprehensive Four-Year Sales Data Analysis
-
-## Project Overview
 ---
+## Project Overview
 The primary objective of this project is to conduct an in-depth analysis of four years' worth of sales data from 2014 to 2017 to uncover key trends, patterns, and insights that will inform strategic decision-making for the organization. By dissecting the data, the project aims to provide actionable recommendations to enhance sales performance, optimize resource allocation, and identify areas for growth.
 
 The project covers a comprehensive exploration of sales data spanning four years, examining various dimensions such as product categories, customer segments and geographical regions. The scope encompasses both macro and micro perspectives, delving into overarching trends while zooming in on specific products, segments, and their interactions.
@@ -9,15 +8,13 @@ The project covers a comprehensive exploration of sales data spanning four years
 ![](Dataset)
 ![Screenshot 2024-01-08 213606](https://github.com/ziraefrimpong1/Excel-Project-2/assets/154938134/70fb335f-efa5-470a-babc-2f793c89c870)
 
----
-
 We will resolve this case following this methodology:
 
 `ASK, PREPARE, PROCESS, ANALYSE, SHARE AND ACT`
 
+---
 
 ## **ASK**
-
 This phase involves defining the issue to be solved, identifying stakeholders and what their expectations from the project are.
 
 Two questions will guide the future marketing program:
@@ -55,6 +52,71 @@ Analyze and leverage key drivers of sales performance, including product contrib
   
 - **Executive Team**: The notoriously detail-oriented executive team will decide whether to approve the recommended marketing program.
 ---
+
+## PREPARE
+Involves collecting data and information and ensuring it satisfies necessary parameters.
+
+The dataset was obtained from Kaggle. Click [here](https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls)
+to download it.
+
+The dataset contains 18979 rows and 77 columns.
+
+#### `Features:`
+
+**Row ID** => Unique ID for each row.
+
+**Order ID** => Unique Order ID for each Customer.
+
+**Order Date** => Order Date of the product.
+
+**Ship Date** => Shipping Date of the Product.
+
+**Ship Mode** => Shipping Mode specified by the Customer.
+
+**Customer ID** => Unique ID to identify each Customer.
+
+**Customer Name** => Name of the Customer.
+
+**Segment** => The segment where the Customer belongs.
+
+**Country** => Country of residence of the Customer.
+
+**City** => City of residence of of the Customer.
+
+**State** => State of residence of the Customer.
+
+**Postal Code** => Postal Code of every Customer.
+
+**Region** => Region where the Customer belong.
+
+**Product ID** => Unique ID of the Product.
+
+**Category** => Category of the product ordered.
+
+**Sub-Category** => Sub-Category of the product ordered.
+
+**Product Name** => Name of the Product
+
+**Sales** => Sales of the Product.
+
+**Quantity** => Quantity of the Product.
+
+**Discount** => Discount provided.
+
+**Profit** => Profit/Loss incurred.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## **ANALYZE**
