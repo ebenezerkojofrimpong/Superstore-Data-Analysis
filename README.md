@@ -90,21 +90,39 @@ This insight suggests that the company's sales efforts and strategies have been 
    ![](Preference_from_Top5_Sub-Category)
 ![image](https://github.com/ziraefrimpong1/Excel-Project-2/assets/154938134/7cae844d-85d6-4bf3-82b4-2bae04c03b90)
 
---
+---
 
 5. A significant insight from the data indicates a positive correlation between sales and quarters, revealing an increase in sales with each subsequent quarter. Notably, Q4 emerges as the top-performing quarter, leading with a maximum sale of $100K. 
 This indicates Q4 has unique drivers of sales volume, most likely holiday shopping and end-of-year budget spending.
 
    ![](Sales_Performance_by_Quarter)
-![image](https://github.com/ziraefrimpong1/Excel-Project-2/assets/154938134/71154a8e-e3df-4e66-ab82-e9c21a9d9cd7)
+   ![image](https://github.com/ziraefrimpong1/Excel-Project-2/assets/154938134/71154a8e-e3df-4e66-ab82-e9c21a9d9cd7)
+
+---
+
+6. A pivotal insight from the chart highlights fluctuations in sales throughout the months. The chart reveals a substantial peak in sales on September, December and November, with November reaching the highest recorded sales revenue of $252K. Conversely, the month of February records the least sales of $60K.
+
+   ![](Sales_Trend_by_Month)
+   ![image](https://github.com/ziraefrimpong1/Excel-Project-2/assets/154938134/346c8342-063d-48cd-89aa-44c6f15abafe)
+
+---
 
 
-![](Sales_Trend_by_Month)
-![image](https://github.com/ziraefrimpong1/Excel-Project-2/assets/154938134/346c8342-063d-48cd-89aa-44c6f15abafe)
+7. The Phones and Chairs categories both see their peak sales at a 20% discount, outpacing other discount levels and Sub-Categories. This suggests Phones and Chairs have the most price- sensitive customer base.
 
-[](Impact_of_Discount_on_Specific_Products)
-![image](https://github.com/ziraefrimpong1/Excel-Project-2/assets/154938134/20a627ea-271e-4aed-9a13-f77eeecf8423)
+   ![](Impact_of_Discount_on_Specific_Products)
+   ![image](https://github.com/ziraefrimpong1/Excel-Project-2/assets/154938134/20a627ea-271e-4aed-9a13-f77eeecf8423)
 
+---
+
+### **Dashboard 1**
+
+![](Dashboard_1)
+![image](https://github.com/ziraefrimpong1/Excel-Project-2/assets/154938134/fa3ce17e-cfdb-4ec8-8d62-cd0867031784)
+
+---
+
+### **Dashboard 2**
 
 ![](Dashboard_2)
 ![image](https://github.com/ziraefrimpong1/Excel-Project-2/assets/154938134/90ebae28-38c7-4f07-ba12-052a22c13dec)
@@ -118,10 +136,7 @@ This indicates Q4 has unique drivers of sales volume, most likely holiday shoppi
 
 
 
-### **Dashboard 1**
 
-![](Dashboard_1)
-![image](https://github.com/ziraefrimpong1/Excel-Project-2/assets/154938134/fa3ce17e-cfdb-4ec8-8d62-cd0867031784)
 
 
 
