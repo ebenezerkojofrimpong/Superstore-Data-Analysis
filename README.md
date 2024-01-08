@@ -2,7 +2,14 @@
 
 ## Project Overview
 ---
-This data analysis project aims to investigate the factors that influence whether a customer purchases a bike or not. The dataset includes information about customer characterists and purchase decisions.
+The primary objective of this project is to conduct an in-depth analysis of four years' worth of sales data from 2014 to 2017 to uncover key trends, patterns, and insights that will inform strategic decision-making for the organization. By dissecting the data, the project aims to provide actionable recommendations to enhance sales performance, optimize resource allocation, and identify areas for growth.
+
+The project covers a comprehensive exploration of sales data spanning four years, examining various dimensions such as product categories, customer segments and geographical regions. The scope encompasses both macro and micro perspectives, delving into overarching trends while zooming in on specific products, segments, and their interactions.
+
+![](Dataset)
+![Screenshot 2024-01-08 213606](https://github.com/ziraefrimpong1/Excel-Project-2/assets/154938134/70fb335f-efa5-470a-babc-2f793c89c870)
+
+---
 
 We will resolve this case following this methodology:
 
@@ -127,11 +134,7 @@ This indicates Q4 has unique drivers of sales volume, most likely holiday shoppi
 ![](Dashboard_2)
 ![image](https://github.com/ziraefrimpong1/Excel-Project-2/assets/154938134/90ebae28-38c7-4f07-ba12-052a22c13dec)
 
-
-
-
-
-
+---
 
 
 
