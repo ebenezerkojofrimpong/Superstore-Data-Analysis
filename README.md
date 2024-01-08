@@ -70,7 +70,7 @@ This insight suggests that the company's sales efforts and strategies have been 
    
    ![](Top_10_Products_and_Cities)
 
-   ![image](https://github.com/ziraefrimpong1/Excel-Project-2/assets/154938134/620dccd4-3fd3-4157-8b68-579755ebf892)
+   ![image](https://github.com/ziraefrimpong1/Excel-Project-2/assets/154938134/83bb297a-d956-43d1-a254-5f0a2ea9d17f)
 
 ---
 
@@ -92,17 +92,12 @@ This insight suggests that the company's sales efforts and strategies have been 
 
 --
 
-### **Dashboard 1**
+5. A significant insight from the data indicates a positive correlation between sales and quarters, revealing an increase in sales with each subsequent quarter. Notably, Q4 emerges as the top-performing quarter, leading with a maximum sale of $100K. 
+This indicates Q4 has unique drivers of sales volume, most likely holiday shopping and end-of-year budget spending.
 
-![](Dashboard_1)
-![image](https://github.com/ziraefrimpong1/Excel-Project-2/assets/154938134/fa3ce17e-cfdb-4ec8-8d62-cd0867031784)
+   ![](Sales_Performance_by_Quarter)
+![image](https://github.com/ziraefrimpong1/Excel-Project-2/assets/154938134/71154a8e-e3df-4e66-ab82-e9c21a9d9cd7)
 
-
-
-
-
-![](Sales_Performance_by_Quarter)
-![image](https://github.com/ziraefrimpong1/Excel-Project-2/assets/154938134/15eff02d-2364-4e1d-8b60-0818736a8f96)
 
 ![](Sales_Trend_by_Month)
 ![image](https://github.com/ziraefrimpong1/Excel-Project-2/assets/154938134/346c8342-063d-48cd-89aa-44c6f15abafe)
@@ -113,6 +108,28 @@ This insight suggests that the company's sales efforts and strategies have been 
 
 ![](Dashboard_2)
 ![image](https://github.com/ziraefrimpong1/Excel-Project-2/assets/154938134/90ebae28-38c7-4f07-ba12-052a22c13dec)
+
+
+
+
+
+
+
+
+
+
+### **Dashboard 1**
+
+![](Dashboard_1)
+![image](https://github.com/ziraefrimpong1/Excel-Project-2/assets/154938134/fa3ce17e-cfdb-4ec8-8d62-cd0867031784)
+
+
+
+
+
+
+
+
 
 
 
