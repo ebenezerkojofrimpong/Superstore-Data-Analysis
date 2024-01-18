@@ -17,7 +17,7 @@ We will resolve this case following this methodology:
 ## **ASK**
 This phase involves defining the issue to be solved, identifying stakeholders and what their expectations from the project are.
 
-Two questions will guide the future marketing program:
+Four questions will guide the future marketing program:
 
 1. What are the key drivers of sales performance?
    
