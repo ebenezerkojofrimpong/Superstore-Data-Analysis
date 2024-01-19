@@ -130,7 +130,6 @@ A summary of the cleaning and manipulation done to the data is presented below:
 
 In this phase we analyze the data using statistical methods to find patterns, relationships, and trends.
 
-Excel was used for the data analysis phase of this project.
 
 **Outlined below are the key takeaways derived from the analysis of the data:**
 1. The company's total sales have been consistently increasing over the years, indicating a positive growth trend shown by the chart below.
